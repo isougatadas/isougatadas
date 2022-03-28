@@ -1,6 +1,6 @@
-
 <h1 align="center">Hi 👋, I'm Sougata Das</h1>
 <h3 align="center">A passionate Data Enthusiast from India!</h3>
+
 <h4 align="center">A Computer Science Engineer Graduate with experience in Business Development currently working in the field of Data Science.</h4>
 
 <br>
