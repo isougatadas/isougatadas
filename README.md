@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thesougatadas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thesougatadas" height="30" width="40" /></a> &nbsp;&nbsp;
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/thesougatadas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thesougatadas" height="30" width="40" /></a> &nbsp;&nbsp;
+<a href="https://linkedin.com/in/thesougatadas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thesougatadas" height="30" width="40" /></a> &nbsp;&nbsp;
 <a href="https://instagram.com/pipinstallpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pipinstallpy" height="30" width="40" /></a> &nbsp;&nbsp;
 <a href="https://medium.com/@pipinstall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pipinstall" height="30" width="40" /></a>
 </p>
