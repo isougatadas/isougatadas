@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sougata Das</h1>
 <h3 align="center">A Tech Enthusiast from India!</h3>
 
-<h4 align="center">Turning ideas into products with code and strategy.</h4>
+<h4 align="center">Turning ideas into products with code and strategy</h4>
 
 <br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
